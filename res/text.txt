@@ -1,0 +1,125 @@
+# begin
+Welcome to Lucas's 407 Personal Portfolio.
+This is a simple choose your own adventure game built using Java.
+When you see a ">", type the number corresponding to a choice as presented on the screen.
+???
+    1. Okay, sounds good.
+    2. What happens if I don't type the number?
+---
+# line 6, 18
+Great.
+???
+    1. So, what is your take on the class?
+    2. This is a strange way to present a personal portfolio.
+---
+# line 7
+I may yell at you. Be warned.
+???
+    1. Understood.
+---
+# line 12, 35
+I don't know, I'm just a game. I don't have any opinions of my own.
+I can tell you what Lucas's take on the class is, though.
+???
+    1. I see. Well, what was Lucas's take on the class?
+---
+# line 13
+I know. It took a lot of work to make, too.
+???
+    1. Why is that? This seems pretty simple.
+---
+# line 29
+It turns out building a text adventure game engine from scratch is more difficult than people let on.
+At least I'm doing that Thing I Always Wanted To Do.
+???
+    1. Interesting. Anyway, what is your take on the class?
+---
+# line 24
+Ah, great question.
+He found it simultaneously enjoyable and stressful.
+???
+    1. Enjoyable?
+    2. Stressful?
+---
+# line 41
+The projects were actually pretty fun to do.
+Typically, I dislike group projects a lot, but I didn't have any particularly bad experiences with the 407 projects.
+???
+    1. What project was your favorite?
+    2. If you're just a game, why are you referring to Lucas as yourself? 
+---
+# line 49
+Don't sweat it too much. I'm not very good at writing.
+???
+    1. You mean Lucas isn't very good at writing.
+---
+# line 54
+Okay, okay, I get it. 
+I - I mean, uh, Lucas - is a computer science major, not an English composition major.
+???
+    1. We're getting off track. What project was the most fun to you?
+---
+# line 48, 60
+Probably Crash N Burn.
+Not only did I actually make some money, it was fun designing, marketing and selling our shirts and stickers.
+It was definitely out of my comfort zone, but that just means I learned a lot.
+???
+    1. What was out of your comfort zone?
+    2. I still don't understand your T-shirt design.
+---
+# line 67, 89, 116
+I did a lot of the work with marketing and fulfillment for our shirts.
+I'm not a very good salesperson - I hate trying to shove a product in the face of people who didn't ask for it -
+but that's exactly what we did for this project. The competition was tough, for sure, but we still had a good result.
+???
+    1. That's great.
+---
+# line 68
+What's not to understand about "we're zoom university"? I came up with the idea, and my entire team just thought it was funny.
+That's really the only reason we ran with it.
+???
+    1. Well, it worked out for you in the end.
+    2. Can you show me the design you made again?
+---
+# line 81
+Well, we didn't win - in fact, we came close to not making the profit goal altogether.
+We rallied in the last few days, mostly by talking with and marketing to our friends. But we were very stressed that we wouldn't make it, just a few days out.
+I learned a lot during that project, that's for sure.
+???
+    1. How so?
+---
+# line 82
+Alright, here goes nothing:
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@,,,,,,,,,,,,,,,,,,,,,&@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@,,,,,,,,,,,,,,,,,,,,,,,#@@@@,,,,,,,,,,,,,,,,@@@@@@@@@@@(*%,@@%@,,@@@@@@@@@@@
+@@@@,,,,,,,,,,,,,,,,,,,,@,,,,@@@@,,,,,,,,,,,,,,,@@@@@@@@@@@@@@@@@@@&,,,,,,,&@@@@
+@@@@,,,,@@@@@@@@@@@@@@@@@,,,,@@,,,,,,,,,,,,,,,,,@@@@@@,@@@@@@@@@@@@@@@@@@@@@@,@@
+@@@@,,,,@@@@,,,,@@@@@@@@@@@@@@@,,,,,,,,,,,,,,,,,@@@@@,@@@@,@@@@@@,*,@,@@@@@@@,@@
+@@@@,,,,,,@@@,,@@@@@@@@@@@@@@@@,,,,,,,,,,,,,,,,@@@@@@,@@@@,@@@@@@,,@@,@@@@@@@,@@
+@@@@,,,,,,@@@@@@@@@@@@@@@,/,@@@@@@@@@,,,,,,,,,@@@@@@@,@@@@/@@@@@@@@@%@@@@@@@%/@@
+@@@@,,,,,&@@@@@@@,,@@,@@@,@@,@@@@,,,,@,,,,,,,@@@@@@@@,@@/,@@,@,/,#@@@@@@@@@@,@@@
+@@@@.,,,,,@@@@@@@@@@@@@@@@@@@,,@@@@@@,,,,,,,,@@@@@@@@,@@,,,,*@@@@@@@@@@@@@@*&@@@
+@@@@@@,,,,@@@@@@@@@@@@@@@@@&#@@@,,,,,,,,,,,,@@@@@@,,,,,%,,,,,@@@@@@@,,,&@@&,@@@@
+@@@@@@@@,,@@@@@@@@@@@@@@@@@@@@@,,,,,,,,,,,,@@@@@,@,@,#,,,,,,,#%,&,,,,,@@@@@,@@@@
+@@@@@@@@@@%@@@@@@@@@@@@@@@@@@@@,,,,,,,,,,,&@@,,@@@@@@@(,@@,@@,&,,,,,,@,@@,&@@@@@
+@@@@@@@@@@@@@@@@@@@@,,&@@@@@@@@@,,,,,,,,,@@@@@@@,,,@@@,@@@@@,/@@(,,,,@@&,@@@@@@@
+@@@@@@@@@@@@@@@@@@@,,,,,@@@@@@@@@,,,,,@@@@@@@@@@@@@@@@&*,,,,,,,@@@@@@@,*@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@,@,,,,,@@@@@@,,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@&,,,,@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@,,,,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+If this is just a garbled mess, try increasing the size of your window.
+???
+    1. Impressive. Well, back to what we were talking about earlier - what did you learn during the Crash N Burn project?
+---
+# line 42
+Having classes on Zoom doesn't make things easier, as I'm sure you know.
+Many of my professors act as though I have more time, since I'm not running around campus or doing things that I'd do during a normal semester.
+When, in reality, it feels like I have less. That's on top of the high expectations that 407 has.
+???
+    1. High expectations?
+    2. How does it feel like you have less time?
+---
