@@ -41,8 +41,8 @@ He found it simultaneously enjoyable and stressful.
     1. Enjoyable?
     2. Stressful?
 ---
-# from line 41
-The projects were actually pretty fun to do.
+# from line 41, 169
+The projects were actually pretty fun.
 Typically, I dislike group projects a lot, but I didn't have any particularly bad experiences with the 407 projects.
 ???
     1. What project was your favorite?
@@ -60,8 +60,8 @@ I - I mean, uh, Lucas - is a computer science major, not an English composition 
 ???
     1. We're getting off track. What project was the most fun to you?
 ---
-# from line 48, 61, 135
-Probably Crash N Burn.
+# from line 48, 61, 135, 184
+Crash N Burn. It was my favorite.
 Not only did I actually make some money, it was fun designing, marketing and selling our shirts and stickers.
 It was definitely out of my comfort zone, but that just means I learned a lot.
 ???
@@ -154,4 +154,32 @@ When, in reality, it feels like I have less. That's on top of the high expectati
 ???
     1. High expectations?
     2. How does it feel like you have less time?
+---
+# from line 155
+Well, this class definitely has the cream of the crop in the college of engineering. Everybody here is motivated to succeed.
+If you're not highly motivated to do well in the class, then you'll just fall behind, which means I have to devote much more time to it.
+This is during a semester where I have some pretty difficult classes aside from 407.
+???
+    1. That's what being in the ELD program is all about.
+---
+# from line 163
+Right. I guess that's why I'm doing this program, to stand out from the rest.
+Most parts of the class weren't all that bad, to be honest.
+???
+    1. Like what?
+---
+# from line 156
+During the semester, I had a lot of other things going on. My job, my commitments to my club, and just living off-campus to name a few.
+I probably wouldn't have enough time to finish this proje
+SLEEP 5
+Nah, I'm just kidding. I'll finish it.
+???
+    1. You nearly got me there.
+---
+# from line 177
+Who says programming can't be creative?
+Anyways, I still got a lot from the class even though things were very unusual this semester.
+To be honest, I probably wouldn't have come up with this idea for a personal portfolio without it.
+???
+    1. What was the project that made you flex your creative muscle the most?
 ---
