@@ -45,33 +45,43 @@ public class GameText {
     }
   }
 
-  public int getCurrentChoiceAt(int choice) {
-    return(currentChoices.get(choice));
+  public int getCurrentChoiceAt(int choice) throws NullPointerException {
+    try {
+      return(currentChoices.get(choice));
+    }
+    catch(NullPointerException e) {
+      throw new NullPointerException();
+    }
   }
 
-  public void changeStep(int step) {
+  public int getStep() {
+    return this.step;
+  }
+
+  public void setStep(int step) {
     this.step = step;
   }
 
 
-	public void readText() {
-		BufferedReader reader;
-		try {
+  public void readText() {
+    BufferedReader reader;
+    try {
       reader = new BufferedReader(new FileReader("res/text.txt"));
       
       lines.add("");
       
-			String line = reader.readLine();
-			while (line != null) {
+      String line = reader.readLine();
+      while (line != null) {
         // store in lines array
         this.lines.add(line);
 
         // read next line
         line = reader.readLine();
-			}
-			reader.close();
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+      }
+      reader.close();
+    }
+    catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
 }
